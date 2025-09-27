@@ -1,0 +1,13 @@
+wave1 = instance_create_layer(0,2200,"instances",obj_wave);
+wave2 = instance_create_layer(1400,2400,"instances",obj_wave);
+wave3 = instance_create_layer(0,2600,"instances",obj_wave);
+wave4 = instance_create_layer(1400,2800,"instances",obj_wave);
+wave1.image_xscale = 1
+wave1.direction = 0
+wave2.image_xscale = -1
+wave2.direction = 180
+wave3.image_xscale = 1
+wave3.direction = 0
+wave4.image_xscale = -1
+wave4.direction = 180
+alarm[1] = 600
