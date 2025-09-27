@@ -1,0 +1,7 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"spr_boss_aoe","order":2,"path":"sprites/spr_boss_aoe/spr_boss_aoe.yy",},
+    {"name":"spr_boss_damage","order":1,"path":"sprites/spr_boss_damage/spr_boss_damage.yy",},
+  ],
+}
