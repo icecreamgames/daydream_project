@@ -35,6 +35,7 @@
   },
   "name":"sacraficev6",
   "resources":[
+    {"id":{"name":"obj_camera_point","path":"objects/obj_camera_point/obj_camera_point.yy",},},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
     {"id":{"name":"obj_gate","path":"objects/obj_gate/obj_gate.yy",},},
     {"id":{"name":"obj_light_ball","path":"objects/obj_light_ball/obj_light_ball.yy",},},
@@ -43,6 +44,7 @@
     {"id":{"name":"obj_pedastal_1","path":"objects/obj_pedastal_1/obj_pedastal_1.yy",},},
     {"id":{"name":"obj_pedastal","path":"objects/obj_pedastal/obj_pedastal.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_spell_poison","path":"objects/obj_spell_poison/obj_spell_poison.yy",},},
     {"id":{"name":"obj_spell","path":"objects/obj_spell/obj_spell.yy",},},
     {"id":{"name":"obj_switch_view","path":"objects/obj_switch_view/obj_switch_view.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},

@@ -1,10 +1,12 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"obj_camera_point","order":20,"path":"objects/obj_camera_point/obj_camera_point.yy",},
     {"name":"obj_gate","order":6,"path":"objects/obj_gate/obj_gate.yy",},
     {"name":"obj_light_ball","order":4,"path":"objects/obj_light_ball/obj_light_ball.yy",},
     {"name":"obj_moon","order":11,"path":"objects/obj_moon/obj_moon.yy",},
     {"name":"obj_pedastal_1","order":15,"path":"objects/obj_pedastal_1/obj_pedastal_1.yy",},
+    {"name":"obj_spell_poison","order":21,"path":"objects/obj_spell_poison/obj_spell_poison.yy",},
     {"name":"obj_switch_view","order":10,"path":"objects/obj_switch_view/obj_switch_view.yy",},
     {"name":"obj_water","order":8,"path":"objects/obj_water/obj_water.yy",},
     {"name":"obj_wave","order":17,"path":"objects/obj_wave/obj_wave.yy",},
