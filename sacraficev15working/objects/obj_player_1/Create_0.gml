@@ -8,3 +8,5 @@ have_spell_poison = 1;
 hp = 100;
 invincible = false
 lightning_cooldown = 0;
+evil = 0;
+audio_play_sound(snd_music,1,1);

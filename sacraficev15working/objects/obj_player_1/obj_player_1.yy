@@ -23,6 +23,7 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_fire_ring_1","path":"objects/obj_fire_ring_1/obj_fire_ring_1.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_fire_side_1","path":"objects/obj_fire_side_1/obj_fire_side_1.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_water_side_1","path":"objects/obj_water_side_1/obj_water_side_1.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_enemy_pedastal","path":"objects/obj_enemy_pedastal/obj_enemy_pedastal.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_player_1",

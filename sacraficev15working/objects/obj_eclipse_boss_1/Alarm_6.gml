@@ -1,0 +1,1 @@
+lightning_damage = 0;

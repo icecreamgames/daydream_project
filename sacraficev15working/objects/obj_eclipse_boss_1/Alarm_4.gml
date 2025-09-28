@@ -1,1 +1,1 @@
-water_damage = 1
+water_damage = 0
