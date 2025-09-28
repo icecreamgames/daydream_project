@@ -1,1 +1,0 @@
-lightning_cooldown = 0
