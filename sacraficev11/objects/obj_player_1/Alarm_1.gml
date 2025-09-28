@@ -1,0 +1,1 @@
+water_cooldown = 0;
