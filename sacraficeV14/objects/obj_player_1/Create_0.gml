@@ -1,6 +1,6 @@
 move_speed = 5;
 have_spell = 1;
-have_spell_water = 1;
+have_spell_water = 0;
 have_spell_lightning = 1;
 cooldown = 0
 water_cooldown = 0
