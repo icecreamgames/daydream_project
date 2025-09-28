@@ -18,5 +18,7 @@ if attack == 3
 }
 spin = 0;
 spin_stay = 0;
+hp_max = 100;
 hp = 100;
+
 water_damage = 1;
