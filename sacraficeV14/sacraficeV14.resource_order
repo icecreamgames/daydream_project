@@ -140,6 +140,7 @@
     {"name":"spr_sun_eclipse_4","order":257,"path":"sprites/spr_sun_eclipse_4/spr_sun_eclipse_4.yy",},
     {"name":"spr_sun_eclipse_5","order":298,"path":"sprites/spr_sun_eclipse_5/spr_sun_eclipse_5.yy",},
     {"name":"spr_sun_eclipse","order":52,"path":"sprites/spr_sun_eclipse/spr_sun_eclipse.yy",},
+    {"name":"spr_wall","order":313,"path":"sprites/spr_wall/spr_wall.yy",},
     {"name":"spr_wave_1","order":117,"path":"sprites/spr_wave_1/spr_wave_1.yy",},
     {"name":"spr_wave_2","order":138,"path":"sprites/spr_wave_2/spr_wave_2.yy",},
     {"name":"spr_wave_3","order":167,"path":"sprites/spr_wave_3/spr_wave_3.yy",},

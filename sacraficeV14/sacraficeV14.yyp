@@ -183,6 +183,7 @@
     {"id":{"name":"spr_sun_eclipse_4","path":"sprites/spr_sun_eclipse_4/spr_sun_eclipse_4.yy",},},
     {"id":{"name":"spr_sun_eclipse_5","path":"sprites/spr_sun_eclipse_5/spr_sun_eclipse_5.yy",},},
     {"id":{"name":"spr_sun_eclipse","path":"sprites/spr_sun_eclipse/spr_sun_eclipse.yy",},},
+    {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
     {"id":{"name":"spr_wave_1","path":"sprites/spr_wave_1/spr_wave_1.yy",},},
     {"id":{"name":"spr_wave_2","path":"sprites/spr_wave_2/spr_wave_2.yy",},},
     {"id":{"name":"spr_wave_3","path":"sprites/spr_wave_3/spr_wave_3.yy",},},
