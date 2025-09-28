@@ -1,1 +1,0 @@
-sprite_index = spr_moon_1_2
