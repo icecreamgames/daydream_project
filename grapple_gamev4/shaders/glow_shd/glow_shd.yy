@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"glow_shd",
+  "name":"glow_shd",
+  "parent":{
+    "name":"grapple_gamev4",
+    "path":"grapple_gamev4.yyp",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
