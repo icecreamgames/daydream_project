@@ -1,1 +1,0 @@
-draw_text_transformed(x,y,"YOU WIN",3,5,0)
